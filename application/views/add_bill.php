@@ -14,6 +14,7 @@
 
     <div class="container">
         <h3>Dynamic Form Table Using CodeIgniter</h3>
+        <h4>Create Bill</h4>
         <div id="user_message"></div>
         <form id="form_add_to_cart" method="post" autocomplete="off" accept-charset="utf-8"> 
             <div class="form-group">
